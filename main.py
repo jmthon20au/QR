@@ -20,7 +20,7 @@ def send_encrypted_qr(message):
   encrypted_message = "• تم تشفير النص هذا هو QR اعلاة 〈 👆 〉"
   bot.send_photo(message.chat.id, open("image.png", "rb"), caption=encrypted_message)
 
-print("running") 
+print("تم✅✅✅✅✅😈😈😈😈🖥🖥🔰😂✅😜😈〽️😔🆕✨🌹😂🌺💖💖🌹") 
 bot.polling(True)
 #Dev : @DF_GD_D
 #in 2023/12/8
